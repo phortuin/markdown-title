@@ -20,7 +20,7 @@ let markdown = `
 let title = markdownTitle(markdown) //=> Title
 ```
 
-The first H1-level title that is found in your Markdown document will be returned, regardless of its position. Supports `pound`-style headers, not underlined headers (see [original Markdown docs](https://daringfireball.net/projects/markdown/syntax)). The reason is that I haven’t ever found a underlined header in the wild, and it’s much harder to parse:
+The first H1-level title that is found in your Markdown document will be returned, regardless of its position. Supports `pound`-style headers, not underlined headers (see [original Markdown docs](https://daringfireball.net/projects/markdown/syntax)). The reason is that I haven’t ever found an underlined header in the wild, and it’s much harder to parse:
 
 ```
 This works:
