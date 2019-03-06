@@ -1,7 +1,16 @@
 {
   "name": "markdown-title",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse title from markdown content",
+  "keywords": [
+    "extract",
+    "parse",
+    "title",
+    "heading",
+    "h1",
+    "markdown",
+    "md"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/phortuin/markdown-title",
   "author": {
